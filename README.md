@@ -3,4 +3,4 @@ Theme for Sublime Text 2,3 - Espresso Editor via www.averin.pro
 
 ScreenShot
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/screenshot.png)
+![ScreenShop color theme](https://github.com/averinpro/Espresso-Editor.tmTheme/blob/master/screenshot.png)
