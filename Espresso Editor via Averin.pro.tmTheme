@@ -26,7 +26,7 @@
 				<key>lineHighlight</key>
 				<string>#00000012</string>
 				<key>selection</key>
-				<string>#4294C6</string>
+				<string>#4294C685</string>
 			</dict>
 		</dict>
 		<dict>
@@ -62,10 +62,10 @@
 			<string>keyword, storage</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
-				<string>#633ab4</string>
+				<string>#5e12b0</string>
+				<key>fontStyle</key>
+				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -75,10 +75,8 @@
 			<string>constant.numeric</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
-				<string>#FF0000</string>
+				<string>#E25C26</string>
 			</dict>
 		</dict>
 		<dict>
@@ -88,10 +86,8 @@
 			<string>constant</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
-				<string>#40931f</string>
+				<string>#4ba509</string>
 			</dict>
 		</dict>
 		<dict>
@@ -140,10 +136,8 @@
 			<string>constant.character.escape, string source</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
-				<string>#33CC33</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -179,10 +173,10 @@
 			<string>entity.name.function, support.function.any-method</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
-				<string>#220651</string>
+				<string>#551F9C</string>
+				<key>fontStyle</key>
+				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -229,8 +223,6 @@
 			<string>storage.type.method</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#70727E</string>
 			</dict>
@@ -243,7 +235,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic </string>
+				<string>italic  </string>
 				<key>foreground</key>
 				<string>#000000</string>
 			</dict>
@@ -271,7 +263,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#EB3B00</string>
+				<string>#e25c26</string>
 			</dict>
 		</dict>
 		<dict>
@@ -281,10 +273,8 @@
 			<string>support.constant</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
-				<string>#990099</string>
+				<string>#3A8A00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -297,7 +287,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CC6633</string>
+				<string>#E25C26</string>
 			</dict>
 		</dict>
 		<dict>
@@ -360,7 +350,7 @@
 				<key>background</key>
 				<string>#0000000F</string>
 				<key>foreground</key>
-				<string>#09FF00</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -370,8 +360,6 @@
 			<string>meta.tag.preprocessor.xml</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#68685B</string>
 			</dict>
@@ -395,9 +383,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic  </string>
+				<string>italic    </string>
 				<key>foreground</key>
-				<string>#09FF00</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -433,6 +421,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#4294c6</string>
+				<key>fontStyle</key>
+				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -456,7 +446,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string>italic </string>
 				<key>foreground</key>
 				<string>#000000</string>
 			</dict>
@@ -472,13 +462,24 @@
 				<string>#B90690</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Embedded</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded, variable.interpolation</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>9E6E7BB1-7FCE-4989-B617-0BFA754F9E08</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.light.classic_modified</string>
+	<string>theme.light.espresso_editor_via_averin.pro</string>
 	<key>comment</key>
 	<string>Цвета моего любимого редактора</string>
 </dict>
